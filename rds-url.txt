@@ -1,0 +1,1 @@
+ mysql -h"terraform-20201225234417851300000001.crvm2yzssjae.eu-central-1.rds.amazonaws.com" -u"testuser" -p'Lgfd!53Kjst34' -e "SHOW DATABASES;"
